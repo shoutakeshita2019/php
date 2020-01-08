@@ -63,7 +63,6 @@ $tasks = array(
 $receivedName = $_POST['receivedName'];
 $receivedPasswd = $_POST['receivedPasswd'];
 
-// var_dump($infos, $tasks, $receivedName, $receivedPasswd);
 ?>
 
 <html>
